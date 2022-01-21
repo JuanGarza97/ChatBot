@@ -1,3 +1,3 @@
-<b>CHATBOT</b>
+# <b>CHATBOT</b>
 
-<p>Chatbot using Python and Tensorflow</p>
+<p>Chatbot using Python and <b>Tensorflow</b></p>
